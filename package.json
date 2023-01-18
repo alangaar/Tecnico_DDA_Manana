@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "node": "^19.4.0"
+  },
+  "name": "tecnico_dda_manana",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alangaar/Tecnico_DDA_Manana.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alangaar/Tecnico_DDA_Manana/issues"
+  },
+  "homepage": "https://github.com/alangaar/Tecnico_DDA_Manana#readme",
+  "description": ""
+}
